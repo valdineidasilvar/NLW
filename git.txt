@@ -1,0 +1,21 @@
+{
+  "name": "NLW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valdineidasilvar/NLW.git"
+  },
+  "keywords": [],
+  "author": "Valdinei da Silva Rribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valdineidasilvar/NLW/issues"
+  },
+  "homepage": "https://github.com/valdineidasilvar/NLW"
+
+}
